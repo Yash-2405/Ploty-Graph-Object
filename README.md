@@ -15,7 +15,7 @@ Comprehensive Data Analysis: Detailed analysis and representation of data trends
 
 User-Friendly: Easy to navigate and understand visualizations.
 
-## Analysis
+# Analysis
 
 # Key Findings
 
