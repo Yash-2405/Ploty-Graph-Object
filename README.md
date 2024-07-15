@@ -32,3 +32,7 @@ Machine Learning: Applying predictive models to further leverage the dataset.
 Interactive Dashboards: Creating interactive dashboards for real-time data exploration.
 
 Insights: Important insights regarding the dataset’s behavior were uncovered, aiding in strategic decisions.
+
+## Conclusion
+
+This project successfully demonstrates the use of Plotly for creating interactive and informative visualizations. The visualizations provide valuable insights into the dataset, showcasing trends and patterns effectively. Future work could involve exploring more advanced features of Plotly and applying the visualizations to different datasets.
